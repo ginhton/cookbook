@@ -10,6 +10,8 @@ Welcome to cookbook's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   notes/hi
+   notes/sentences
 
 
 Indices and tables
