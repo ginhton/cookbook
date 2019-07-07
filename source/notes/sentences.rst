@@ -1,4 +1,4 @@
-sentences
+Sentences
 ===========
 
 你是个好人，却并无用处
