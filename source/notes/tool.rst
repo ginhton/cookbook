@@ -35,6 +35,8 @@ security
     - https://en.archivarix.com/
     - 该工具可以用来从 Achive.org 的 Wayback Machine 里面，下载某个网站在指定日期的所有网页。
 
+  - NFC卡模拟
+
 
 js
   - rrweb

@@ -1,9 +1,8 @@
 HarVard Happiness Courses
 ==========================
 
-===
 07
-===
+----
 
 optimism
     - take action
@@ -63,3 +62,65 @@ Focus
   - "所有的事情都是好事，如果不是好事，说明还没到最后"
   - 最幸福的人也经历了不多不少的痛苦时光。他们恢复快，对痛苦进行了不同的解读，并从中学到知识
   - It's temperary.  It's gonna go away.
+
+
+09
+-----
+
+Become benifit-finder makes people happy, longlife and so on.
+What is preventing us to become a benifit-finder?
+
+  - media. magnifying, zooming in, magnifying the negative
+
+  - we think be happy is unmoral. How can we be happy when others are suffering?
+
+Couter negative news in media
+
+  - having good news channels
+
+  - having more inspring art
+
+  - not waiting for bad things to happen for us to be grateful
+
+  - maintain freness tward grateness. various aspect
+
+  - take action
+
+
+Take a list of things that you are grateful about.
+It will remind you that there are so many wonderful things in the world.
+
+
+What am I grateful for?
+What he or she did for me that has contribute so much to my life, to who I am today?
+
+
+write a gratitude letter, and visit the people, read in front of them.
+
+
+even write gratitude letter only will make us happy
+
+
+Analying vs. Replaying
+
+  - When we anlyze an experience, when we make sense of it, it helps. It actually helps painful experiences and negtive experiences, which is why therapy helps.  And what helps in therapy more than anything is "are they empathic?"  In other words, are they good listeners?
+
+
+Just think about happy experience (not analyze), then it contributes to our well-being
+
+
+It is a priviledge to have the food we have, to have the friends and family we have.
+
+
+Change
+
+
+Change is hard, but change is possible.
+
+
+neuralplasticity 神经可塑性，大脑一直在发育
+
+
+There is no quick fix.
+It takes time.
+It takes time to change.
