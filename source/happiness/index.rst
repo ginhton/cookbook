@@ -10,3 +10,4 @@ Become Happier!
 
    harvard-happiness
    life
+   gratitude

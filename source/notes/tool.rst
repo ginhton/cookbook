@@ -43,7 +43,12 @@ js
 
     - https://github.com/rrweb-io/rrweb
     - 一个可以录制网页操作的 JS 库，不是录制成视频，而是将用户的每一个操作，录制成可复现的脚本。
-  
+
+  - Fuse.js
+
+    - https://fusejs.io/
+    - Lightweight fuzzy-search library.
+
 
 tutorial
   - linear algo
@@ -60,6 +65,9 @@ tutorial
 
     - https://linci.co/sp/
   
+  - data-science-probability
+
+    - https://luminousmen.com/post/data-science-probability
 
 video
   - movie
@@ -86,6 +94,18 @@ algorithm
 
     - https://algorithm-visualizer.org/backtracking/n-queens-problem
 
+search
+  - google.com
+
+  - bing.com
+
+  - gugeji.com
+
+
+wiki
+  - moegirl.org
+
+  - wikipedia.org
 
 
 elgoog replacement
@@ -177,3 +197,17 @@ knowledge management
     - evaluation
       - look pretty good
       - repo is update frequently
+
+
+editor
+  - vim
+
+  - spacemacs
+
+  - overleaf latex online
+
+
+jrnl
+  - simple journal cmd tool
+
+end of items

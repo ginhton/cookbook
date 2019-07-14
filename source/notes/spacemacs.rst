@@ -14,12 +14,14 @@ emacs follow mode
   - https://stackoverflow.com/questions/970292/emacs-multiple-columns-one-buffer
   - just ``follow mode`` with more than one window
 
+
 shortcuts
   - X: delete backward
   - ): forward sentence
   - (: backward sentence
   - g (h/j/k/l): move backward/down/up/forward
   - narrow to xxx: , s n/N  / C-x n b / C-x n e
+
 
 scroll
   - ctrl f/b: scroll page down/up
@@ -29,3 +31,31 @@ scroll
   - space N b: scroll up one page
   - space N d: scroll down half page
   - space N u: scroll up half page
+
+
+dired mode
+  - ``^``: go-up-directory
+
+
+copy path
+  - ``space f y y``: file
+  - ``space f y d``: directory
+
+
+internal link
+  - ``<<code>>``: anchor
+  - ``[[code]]``: jump to anchor. this is a link
+
+
+eval lisp
+  - ``M-:``: Read a single Emacs Lisp expression in the minibuffer, evaluate it, and print the value in the echo area. ``eval-expression``
+  - ``c-x c-e``: Evaluate the Emacs Lisp expression before point, and print the value in the echo area. ``eval-last-sexp``
+
+
+fringe-mode
+  - ``(fringe-mode 4)``: make both fringes 4 pixels wide
+  - ``(fringe-mode '(4 0)``: make the left fringe 4 pixels wide and the right disapper
+  - ``(fringe-mode nil)``: restore the default size
+
+
+end of file
