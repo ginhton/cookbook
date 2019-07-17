@@ -58,4 +58,41 @@ fringe-mode
   - ``(fringe-mode nil)``: restore the default size
 
 
+treemacs workplace
+  - concept: a workplace can have one or more projects. workplace belongs to treemacs
+  - ``treemacs-edit-workspace``: define your workplace and its associated projects
+  - ``treemacs-finish-edit``: submit workplaces edit
+  - ``treemacs-switch-workspace``: switch workspace
+  - treemacs buffer shortcuts
+
+    - ``?`` : show all shortcuts
+    - ``c f``: create file
+    - ``c d``: create directory
+
+
+bookmark
+  - ``C-x r m``: bookmark-set
+  - ``C-x r b``: bookmark-jump
+  - ``C-x r l``: bookmark-list
+  - ``M-x bookmark-delete``: delete bookmark by name
+
+
+window dedication: ``space w t``
+
+
+bind key
+  - `spacemacs-how-to-define-a-new-key-binding-with-a-leading-spc <https://stackoverflow.com/questions/46777840/spacemacs-how-to-define-a-new-key-binding-with-a-leading-spc>`_
+  - A more complete answer, is to first declare a prefix, and then set leader keys. Using "o" as a prefix is a good idea, as it is guaranteed to be available for customization. Other prefixes might be used by different layers.
+
+  ::
+
+    (spacemacs/declare-prefix "o" "customize")
+    (spacemacs/set-leader-keys "os" 'treemacs-switch-workspace)
+
+    ;; org-ids
+    (spacemacs/declare-prefix "od" "id")
+    (spacemacs/set-leader-keys "odc" 'org-id-copy)
+    (spacemacs/set-leader-keys "odu" 'org-id-update-id-locations)
+
+
 end of file

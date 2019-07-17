@@ -210,4 +210,8 @@ editor
 jrnl
   - simple journal cmd tool
 
+
+terminal for windows
+  - http://www.sunyouqun.com/2019/04/command-line-tools-summary/
+
 end of items
