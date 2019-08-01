@@ -227,5 +227,98 @@ shell脚本中，文件名包含的空格会导致命令运行出错。此时需
 
    IFS=$MY_SAVEIFS
 
+adb pull /storage/emulated/0/1.txt ~/my/temp
+
+
+adb push ~/my/temp/1.txt /storage/emulated/0/
+
+
+CONTAINER_OF在Linux内核中是一个常用的宏，用于从包含在某个结构中的指针获得结构本身的指针，通俗地讲就是通过结构体变量中某个成员的首地址进而获得整个结构体变量的首地址。
+
+
+container_of(ptr, type, member) 
+  -	ptr:表示结构体中member的地址
+  -	type:表示结构体类型
+  -	member:表示结构体中的成员
+  - 通过ptr的地址可以返回结构体的首地址
+
+
+container_of的实现::
+
+  #define container_of(ptr, type, member) ({ \ 
+  const typeof( ((type *)0)->member ) *__mptr = (ptr);  \
+  (type *)( (char *)__mptr - offsetof(type,member) );})
+
+  /* 第一步，首先定义一个临时的数据类型（通过typeof( ((type *)0)->member )获得）与ptr相同的指针变量__mptr，然后用它来保存ptr的值。 */
+  /* 第二步，用(char *)__mptr减去member在结构体中的偏移量，得到的值就是整个结构体变量的首地址（整个宏的返回值就是这个首地址） */
+
+
+offset_of::
+
+   #define offsetof(type, member) (size_t)&(((type*)0)->member)
+
+
+diff three type
+
+  - normal diff (diff f1 f2) (c -> change, a -> add, d -> delete)
+    ::
+
+      4c4
+      < a
+      ---
+      > b
+
+
+  - context diff (diff -c f1 f2)
+    ::
+
+      *** f1	2012-08-29 16:45:41.000000000 +0800
+      --- f2	2012-08-29 16:45:51.000000000 +0800
+      ***************
+      *** 1,7 ****
+      a
+      a
+      a
+      !a
+      a
+      a
+      a
+      --- 1,7 ----
+      a
+      a
+      a
+      !b
+      a
+      a
+      a
+
+
+  - unified diff (diff -u f1 f2)
+    ::
+
+      --- f1	2012-08-29 16:45:41.000000000 +0800
+      +++ f2	2012-08-29 16:45:51.000000000 +0800
+      @@ -1,7 +1,7 @@
+      a
+      a
+      a
+      -a
+      +b
+      a
+      a
+      a
+
+
+this is an inline code :code:`a = b + c`
+
+
+manjaro-i3 change desktop wallpaper: :code:`nitrogen --set-zoom path-to-picture`
+
+
+manjaro 更新后中文变方块
+  - sudo pacman -S wqy-bitmapfont
+  - sudo pacman -S wqy-microhei
+  - sudo pacman -S wqy-zenhei
+
 
 another item

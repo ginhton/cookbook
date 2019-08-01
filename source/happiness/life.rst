@@ -134,3 +134,6 @@ permission to be human, to experience the emotion
 
 
 不要尝试和心中的意念对立，从意念中脱离，回到现实世界。
+
+
+我从这个世界中受益，我必回馈于这个世界

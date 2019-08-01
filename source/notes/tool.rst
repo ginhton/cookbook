@@ -200,7 +200,7 @@ knowledge management
 
 
 editor
-  - vim
+  - gvim (not vim, vim is always no system clipboard support)
 
   - spacemacs
 
@@ -211,7 +211,37 @@ jrnl
   - simple journal cmd tool
 
 
+shell
+  - fish
+
+
 terminal for windows
   - http://www.sunyouqun.com/2019/04/command-line-tools-summary/
+
+
+graph
+  - uml: plantuml
+  - mindmap: xmind-zen
+
+
+input method
+
+  - rime
+
+    - install ``fcitx-rime``
+    - install plum ``curl -fsSL https://git.io/rime-install | bash``
+    - ``rime_dir="$HOME/.config/fcitx/rime" bash rime-install``
+    - ``rime_dir="$HOME/.config/fcitx/rime" bash rime-install double-pinyin``
+    - edit ``$HOME/.config/fcitx/rime/default.yaml``, add double-pinyin-mspy
+    - edit ``$HOME/.config/fcitx/rime/double-pinyin-mspy.yaml``, change default to simplification Chinese
+
+  - sougou-pinyin
+
+
+security
+  - kali
+  - virtualbox
+  - nmap
+  - sqlmap
 
 end of items

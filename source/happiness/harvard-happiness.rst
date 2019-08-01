@@ -1,6 +1,7 @@
 HarVard Happiness Courses
 ==========================
 
+----
 07
 ----
 
@@ -63,7 +64,7 @@ Focus
   - 最幸福的人也经历了不多不少的痛苦时光。他们恢复快，对痛苦进行了不同的解读，并从中学到知识
   - It's temperary.  It's gonna go away.
 
-
+-----
 09
 -----
 
@@ -124,3 +125,127 @@ neuralplasticity 神经可塑性，大脑一直在发育
 There is no quick fix.
 It takes time.
 It takes time to change.
+
+
+-----------------
+13 handle stress
+-----------------
+
+自我和谐的益处:
+  - 追求所爱，更能享受过程
+  - resolve internal conflicts
+  - more likelihood of success
+
+
+Do it better with pleasure
+
+
+Having a self-concordant goal is like lighting a candle. It will light the whole room. It will light the every other part of your life.
+
+
+Had choice.
+They did their own thing.
+
+
+Values in Action (VIA, 行为价值观) -> VIA online test
+
+
+性格应该以一种道德的方式来使用。
+反例，幽默 -> 嘲笑、挖苦别人
+
+
+VIA -> 让我们更关注过程，而不是结果
+
+
+If we have a self-concordant end and a self-concordant journey, there is what happiness is (end -> target, journey -> VIA)
+
+
+Is this the real me?
+When does it feel the real me?
+
+
+我们可以培养性格优势。
+但我们利用自己已有的内在倾向的性格优势会更好。
+
+
+每天抽一个小时培养自己的优势性格（比如学习新知识），精力、状态就会回来。
+
+
+就算我很忙，我也会坚持做这些事情，因为我知道它们对于幸福至关重要。
+
+
+对工作的理解
+  - Job
+
+    - motivation: paycheck
+    - attitude: "I have to do" "I have no choice"
+    - expectation: nothing much. TGIF or holiday, break, the end of semester
+
+  - Career
+
+    - motivation: money, advancement
+    - attitude: "It's a race, a race to the top" rat race
+    - expectation: more prestige, more power, more money
+
+  - Calling (使命)
+
+    - motivation: the thing in itself
+    - attitude: mission "It's what they are meant to be done" "我愿意做，比其他任何事情都愿意做"
+    - expectation: more work. so that thay can be all they can be.
+
+
+将工作视为使命，着眼大局
+
+
+"Be the change you want to see in the world."
+If you want a happier world, begin with yourself.
+
+
+What we can't live without?
+What can't you live without?
+What are you about?
+
+
+setting goals method
+
+  - write them down. it is make a commitment.
+  - set lifelies. it will motivate you.
+  - make them specific.
+
+
+The most important thing about goals is not achieving those goals, it's not that is what makes us happy or sad if we do or don't achieve them.
+The key is to  energize us, to motivate us, to liberate us, to contribute as a mean toward the end, the end being the journey.
+
+
+"Beliefs are self-fulfilling prophecies"
+"信念是自我实现的预言"
+
+
+We paied very high price for "TBD" (too busy disordered)
+
+
+Stress is fine, is good, it's exciting at times if we also have recovery
+
+
+take break.
+
+
+The problem is lacking of recovery.
+
+
+change our perception of our day from being marathon runners to being sprinters, from going on and on and on to sprinting, recovering, sprinting, recoverying.
+
+
+Have 60 to 120 minutes, so around 90 minutes of sprint, work, concentrate, focus hard, go for it, and then after that, after you sprint with as little distraction as possible, have (at least) 15 minutes or so of recovery.
+
+
+每周划出10个90分钟的工作时间段，保持灵活性。
+
+
+attain multi-level recovery
+  - First recovery, the micro level, 15 minutes mediation, one-hour of gym
+  - Middle, the midst level recovery, good night sleep, a day off during the week
+  - Finally, those vacations
+
+
+"Recreation lead to creation"
