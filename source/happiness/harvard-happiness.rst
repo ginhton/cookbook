@@ -249,3 +249,228 @@ attain multi-level recovery
 
 
 "Recreation lead to creation"
+
+
+---------
+19 love
+---------
+
+
+Ask yourself how many hours a day is it good for me, enjoyable for me to spend with other people?
+
+
+OLA (Level of Arousal) is diferent between the introversion and extroversion
+
+
+Introversion people have a higher OLA, higher innate of arousal.
+
+
+People tend to reach the base level
+
+
+Alcohol decrease OLA, and coffee increase OLA
+
+
+introvers need recovery, sometimes on their own, sometime one on one
+
+
+restorative niche. according to your first nature
+
+
+关系的消退: Love, and especially lust and passion, wears over time.
+Because we know that novelty produces higher levels of arousal.
+The exotic is erotic.
+If it is new, it's more interesting, it's more fasnating.
+
+
+人本性如此（喜新厌旧），所以我们应该如何应对？
+
+
+Is this a bad news?
+Not necessarily.
+Well, it is not bad or good, it is.
+
+
+How do we obey nature so we can command it?
+
+
+the first step before accepting reality is understanding what true love really means.
+
+
+Does TRUE LOVE really exist?
+IT DOES.
+
+
+There is no perfect love.
+Expecting this will set us for failure.
+
+
+Perfect love does not exist, but true love exists.
+True love exists between imperfect humans.
+
+
+Quiet desperation
+
+
+True love is not a straight line from A to B.
+But a quzhequzhequzhe path connecting them.
+Just like pursuing excellece vs pursuing perfect.
+
+
+First, our relationship is about hard working. (invest)
+Second, that the bes relationship are ones that create high levels of intimacy, that get to no one in other into a deeper level, and these are the relationship that thrive, and these are the relationships that also maintain passion and enhance passion, 5, 10, 50 years hence.
+Third, the best relationship are not relationships devoid of conflict.
+Finally, focus on the positive and appreciate it and let it grows.
+
+
+Wrong expectations of relationships or of what it to have a happy relationship
+
+
+Finding mindset (fixed) ---VS.------ Cultivating mindset.
+like "you are so smart" -- VS. -- "you worked so hard."
+
+
+finding mindset: finding the most suitable partener. <--> not go through the pain, the difficulties. Because thiking that "This means this guy is not the right one"
+
+
+cultivating mindset: it is related to effort. go though the difficulties and work on it to dissolve it.
+
+
+cultivation.
+It's by virtue of working together, of being together, of spending time together, of dedicating one another.
+
+
+It takes time.
+It is not and end.
+It is a process.
+
+
+Contact is not enough.
+Relationships always have conflict, especially serious conflict.
+The important thing in resolving conflicts is having a super orinate goal what the couple need are mutually meaningful goals.
+Doing things together.
+
+
+In the strongest marriages, husband and wife share a deep sense of meaning.
+They don't just 'get along', they also support each other's hopes and aspirations and build a sense of purpose into their loives together.
+That doesn't mean they need to do everything together.
+It is OK for one to have his or her own meaningful goals at work where they don't work together.
+That's perfectly fine.
+But in addition, there have to be things taht are done together.
+
+
+Active love.
+
+
+care about myself.
+care about someone.
+
+
+IMPORTANT: We may experience the love automatically at the beginning.
+It could be the lve at the first sight.
+However, if we don't sustain the active love, over time, because of self-perception theory, over time that will go away.
+
+
+Make it a ritual.
+Do it no matter what.
+
+
+Making that shift from the desire to be validated to the desire to be known.
+
+
+好的关系不止在于给对方留下好印象，也在于表达自我。
+
+
+active to 了解对方
+
+
+to be known
+
+
+IMPORTANT:
+  a. it is so stressful, enervating to think constantly I have to impress.
+  #. the second thing about trying to impress constantly is that we put on a facade, and act, and then, I tried, if I want to be validated constantly, to seem perfect, so that they really like me, and approve of me.　But then what I'm doing is I'm hurting them as well. because if I'm good at it, if I'm good at putting up the facade and depicting this perfect people. I'm being a terrible role models, which in the long term, will only hurt other people, because that thing does not exist. And if anyone aspires to this perfection, it inevitably is a prescription for perfectionism, hence for failure, hence for unhappiness.
+  #. allow for conflict existance.
+
+
+normal conflict ratio: 5:1.
+beyong this is not good.
+to lower than this is also not good.
+
+
+Love is in the detail.
+
+
+
+A relationship is made extraordinary by focusing the these details, on these day to day activities and how we do that? We demonstrate interest by asking so:
+  - "How was your day sweetheart?"
+  - "tell me more about what you have just done?"
+  - "what you have being thinking?"
+  - "you look a little bit down, anything I can do"
+
+
+Demonstrate interest, create love maps, get to knw the other person.
+What they like, what they don't like, and how they like it.
+Again the little things such as touching, such as smiling, such as flowers, such as remembering the important dates.
+Pay compliments to your partner.
+
+
+Don't wait to be asked to give compliments, give it now.
+
+
+共鸣
+
+
+Do I really listen to my partner?
+Do I really look at my partner?
+Do I demonstrate genuine interest in what my partner is doing, feeling and how they are?
+Do I realy want to get to konw them?
+
+
+Sex(Love) made concrete.
+It's a comcretization of that emotion of that abstract of that notion.
+它使得抽象的感情具体化
+
+
+not every conflict is good. there is two kinds of conflict: cognitive conflict(postive)(healthy), affective conflict(negative)
+
+
+cognitive conflict is about focusing on the person's behaviour or thought and ideas and challenging those.
+unhealth conflict is focusing on ther person on their emotions, on who they are.
+
+
+"You are such a slob. You promised to throw away the garbage. I can't trust you." <-> that is an attack on the person.
+"It upset me to return to a dirty home after we agreed that you throw away the garbage"
+
+
+私下处理，避免公开吵架
+
+
+Women are much more comfortable, even on the physiologyical level, they are much more comfortable handling and dealing with these disease or discomfort of an argument.
+
+
+男生要理解这一点，从而更理智的去面对而不是逃避 （男生面对相同冲突，更加不适)
+女生要有同理心（empathy) and understand their partner's experience is not the same as their experience.
+
+
+do not do onto those close to you which you would not have done onto others who are not so close to you.
+
+
+"Why treat others better than we treat the people we love the most?"
+There is no justification. There can be conflict, and there will be conflict, and it's important.
+Question is how do you keep it on the cognitive behaviour level, rather than the affective, emotional, contempt level.
+And that can make all the difference.
+
+
+partner <-> benifit finder
+
+
+positive illusion.
+They think of their partners more than other people think of them.
+Having an illusory glow about them, seen them better.
+Supposing than they really are.
+illusion <-> self-fulfilling prophecy.
+
+
+benifit-creating rather than only benifit-finding.
+
