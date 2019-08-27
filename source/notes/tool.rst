@@ -3,6 +3,8 @@ Tool
 
 pdf download
   - http://pdf.018zy.com
+  - https://sobooks.cc
+  - https://www.daocaorenshuwu.com/
 
 
 browser extension 
@@ -28,14 +30,10 @@ UI
     - 一个网页工具，可以去除图像里面的用户指定的颜色，对去除背景很有用。
     - https://color.4ty2.fun/
 
-  
-security
-  - archivarix
 
-    - https://en.archivarix.com/
-    - 该工具可以用来从 Achive.org 的 Wayback Machine 里面，下载某个网站在指定日期的所有网页。
-
-  - NFC卡模拟
+relax
+  - noisli
+  - mynoise
 
 
 js
@@ -69,7 +67,7 @@ tutorial
 
     - https://luminousmen.com/post/data-science-probability
 
-video
+watch video
   - movie
 
     - https://www.imeiju.cc
@@ -81,9 +79,10 @@ video
   - anime
 
     - http://www.imomoe.jp/
+    - yhdm
 
 
-document
+paper
   - zetero
 
     - document manager. open source. cross-platform.
@@ -221,7 +220,7 @@ terminal for windows
 
 graph
   - uml: plantuml
-  - mindmap: xmind-zen
+  - flowchart: zenflowchart web
 
 
 input method
@@ -243,11 +242,28 @@ security
   - virtualbox
   - nmap
   - sqlmap
+  - archivarix
+
+    - https://en.archivarix.com/
+    - 该工具可以用来从 Achive.org 的 Wayback Machine 里面，下载某个网站在指定日期的所有网页。
+
+  - NFC卡模拟
 
 
 programming language
   - nodejs
   - python
   - racket
+
+
+typing exercies
+  - keybr.com
+  - typingclub.com
+
+
+media
+  - anoise
+  - mpv player
+
 
 end of items
