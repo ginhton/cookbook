@@ -12,4 +12,5 @@ All Notes saved in this category
    spacemacs
    archlinux
    tool
+   restructuredtext
             

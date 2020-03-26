@@ -252,6 +252,9 @@ security
 
 programming language
   - nodejs
+
+    - cnpm
+
   - python
   - racket
 
@@ -266,4 +269,12 @@ media
   - mpv player
 
 
+game
+	- lutris
+
+
+online storage
+  - yunshushu
+
 end of items
+

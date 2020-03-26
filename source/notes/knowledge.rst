@@ -14,6 +14,10 @@ python -m argument
   - example: python -m SimpleHTTPServer
 
 
+git ignore
+  - ignore bin folder: bin/
+
+
 git submodule
   - git submodule init
   - git submodule update
@@ -313,6 +317,9 @@ this is an inline code :code:`a = b + c`
 
 
 manjaro-i3 change desktop wallpaper: :code:`nitrogen --set-zoom path-to-picture`
+
+
+rime input method, switch between Full-width and Half-width: shift + space
 
 
 manjaro 更新后中文变方块
