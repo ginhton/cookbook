@@ -87,6 +87,12 @@ paper
 
     - document manager. open source. cross-platform.
 
+reader
+  - zathura
+
+  - mupdf
+
+  - apvlv
 
 algorithm
   - algo visuallizer online

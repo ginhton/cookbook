@@ -94,5 +94,17 @@ bind key
     (spacemacs/set-leader-keys "odc" 'org-id-copy)
     (spacemacs/set-leader-keys "odu" 'org-id-update-id-locations)
 
+error: org-preserve-local-variables
+  - https://www.cnblogs.com/jiftle/p/10317493.html
+  - method: 
+
+  ::
+
+     cd ~/.emacs.d/elpa
+     find org*/*.elc print0 | xargs -0 rm
+     (in spacemacs) spacemacs/recompile-elpa
+
+
+evil-move-beyond-eol: move cursor beyound eol
 
 end of file

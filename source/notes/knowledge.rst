@@ -334,4 +334,30 @@ manjaro 更新后中文变方块
   ③，温柔应对。她越是生气，越是无理取闹，你则越是要稳住自己，与她大吵一番只会两败俱伤，如果你想跟她和好，就最好不要采取硬碰硬的方式解决问题。
   ④，淳淳引导。告诉她自己如此做是因为爱她，在她情绪平复下来把下一次出现矛盾和问题时能够告诉你而不是生闷气或者发脾气的期许告诉她，慢慢的，一次又一次的加深她的印象和观念，这是杜绝让步和示弱会让女朋友有恃无恐的有效办法。
 
+show disk usage: :code:`df -h .`
+
+show disk usage in detail: :code:`du -hd 1 .`
+
+show disk usage and sort: :code:`du -hd 1 . | sort -hr`
+
+
+cpu architecture
+  x86(i386/x86-32/IA-32): inter 32-bit processor based on CISC
+
+  amd64(x86_64/x64/intel 64): 64-bit processor based on RISC
+
+  arm: 32-bit RISC
+
+cat file to clipboard
+  cat file | xclip -selection clipboard
+
+  cat file | xclip
+
+  xclip -o
+
+switch input method:
+  in i3wm env, `win+space` is bind to move focus between floating window and non-foating window. `shift+win+space` is bind to toggle a window's floating state
+
+  so I need to change the default `win+space` to `ctrl+space`. using `ibus-setup`
+
 another item
