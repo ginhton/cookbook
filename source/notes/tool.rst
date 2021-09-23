@@ -65,6 +65,10 @@ tutorial
 
     - emacs-rime: https://manateelazycat.github.io/emacs/2020/03/22/emacs-rime.html
 
+    - emacs-rime: https://hsingko.github.io/p/%E5%9C%A8doom-emacs%E4%B8%AD%E5%AE%89%E8%A3%85emacs-rime/
+
+    - emacs-rime: https://blindwith.science/2019/07/445.html/
+
     - doom emacs
 
       1. add (package! rime) in the packages.el and then sync to download packages.
