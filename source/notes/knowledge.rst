@@ -329,16 +329,21 @@ manjaro 更新后中文变方块
 
 
 如何处理与女友吵架的情绪：
-  ①，避免正面冲突和理论。女生是情绪动物，情绪被放大时是缺乏理智的，谈恋爱不是谈生意，女朋友也不是客户。
-  ②，及时认错。这并不是没有骨气的纵容和示弱，这是让女生熄火的最简单，最直接，最有效的话语。大丈夫能屈能伸，对一个小女子何必那么较真？
-  ③，温柔应对。她越是生气，越是无理取闹，你则越是要稳住自己，与她大吵一番只会两败俱伤，如果你想跟她和好，就最好不要采取硬碰硬的方式解决问题。
-  ④，淳淳引导。告诉她自己如此做是因为爱她，在她情绪平复下来把下一次出现矛盾和问题时能够告诉你而不是生闷气或者发脾气的期许告诉她，慢慢的，一次又一次的加深她的印象和观念，这是杜绝让步和示弱会让女朋友有恃无恐的有效办法。
+  ① 避免正面冲突和理论。女生是情绪动物，情绪被放大时是缺乏理智的，谈恋爱不是谈生意，女朋友也不是客户。
 
-show disk usage: :code:`df -h .`
+  ② 及时认错。这并不是没有骨气的纵容和示弱，这是让女生熄火的最简单，最直接，最有效的话语。大丈夫能屈能伸，对一个小女子何必那么较真？
 
-show disk usage in detail: :code:`du -hd 1 .`
+  ③ 温柔应对。她越是生气，越是无理取闹，你则越是要稳住自己，与她大吵一番只会两败俱伤，如果你想跟她和好，就最好不要采取硬碰硬的方式解决问题。
 
-show disk usage and sort: :code:`du -hd 1 . | sort -hr`
+  ④ 淳淳引导。告诉她自己如此做是因为爱她，在她情绪平复下来把下一次出现矛盾和问题时能够告诉你而不是生闷气或者发脾气的期许告诉她，慢慢的，一次又一次的加深她的印象和观念，这是杜绝让步和示弱会让女朋友有恃无恐的有效办法。
+
+
+disk usage:
+  show disk usage: :code:`df -h .`
+
+  show disk usage in detail: :code:`du -hd 1 .`
+
+  show disk usage and sort: :code:`du -hd 1 . | sort -hr`
 
 
 cpu architecture
@@ -356,8 +361,28 @@ cat file to clipboard
   xclip -o
 
 switch input method:
-  in i3wm env, `win+space` is bind to move focus between floating window and non-foating window. `shift+win+space` is bind to toggle a window's floating state
+  in i3wm env, ``win+space`` is bind to move focus between floating window and non-foating window. ``shift+win+space`` is bind to toggle a window's floating state
 
-  so I need to change the default `win+space` to `ctrl+space`. using `ibus-setup`
+  so I need to change the default ``win+space`` to ``ctrl+space``. using ``ibus-setup``
+
+
+find out a class of an application
+
+  xprop | grep CLASS # use mouse to select the application
+
+
+i3wm assign application to specific workspace
+  in ``~/.config/i3/config``, add :code:`assign class=["Firefox"] $ws3` or something like that.
+
+  "Firefox" is the name of application class.
+
+  $ws3 is a variable which refers to workspace3
+
+zathura clipboard
+  Add ``set selection-clipboard clipboard`` in the config file ``~/.config/zathura/zathurarc`` or ``/etc/zathurarc``.
+
+
+disable spacemacs release note
+  select/click/tap on [Release Note] in the spacemacs buffer to hide it.
 
 another item

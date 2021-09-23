@@ -61,7 +61,46 @@ tutorial
 
   - shuangpin
 
-    - https://linci.co/sp/
+    - https://linci.co/sp/ -> this link is outdated
+
+    - emacs-rime: https://manateelazycat.github.io/emacs/2020/03/22/emacs-rime.html
+
+    - doom emacs
+
+      1. add (package! rime) in the packages.el and then sync to download packages.
+
+      2. install librime and capnproto in arch linux
+
+      3. in emacs, select rime input method and edit configuration file.
+
+        a. in `rime/default.custom.yaml`:
+
+          .. code-block:: text
+
+            patch:
+              schema_list:
+                - schema: double_pinyin_mspy
+                - schema: luna_pinyin
+
+        b. in `rime/double_pinyin_mspy.custom.yaml`:
+
+          .. code-block:: text
+
+            patch:
+              switches:                   # 注意缩进
+                - name: ascii_mode
+                  reset: 0                # reset 0 的作用是当从其他输入法切换到本输入法重设为指定状态
+                  states: [ 中文, 西文 ]   # 选择输入方案后通常需要立即输入中文，故重设 ascii_mode = 0
+                - name: full_shape
+                  states: [ 半角, 全角 ]   # 而全／半角则可沿用之前方案的用法。
+                - name: simplification
+                  reset: 1                # 增加这一行：默认启用「繁→簡」转换。
+                  states: [ 漢字, 汉字 ]
+
+
+      4. run commands: rime-compile-module, rime-deploy, rime-sync
+
+      5. now, it may work
   
   - data-science-probability
 
