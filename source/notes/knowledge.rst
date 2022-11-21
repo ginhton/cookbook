@@ -25,6 +25,12 @@ git submodule
   - GOOD example: http://blog.jqian.net/post/git-submodule.html
 
 
+git push/pull without password
+  - generate private/public key pair and add to ssh-agent
+  - git remote -v
+  - git remote set-url origin git@github.com:user/repo.git
+
+
 non-root access ttyUSB0
   - The currently logged user should have read and write access the serial port over USB. On most Linux distributions, this is done by adding the user to dialout group with the following command:
   - ``sudo usermod -a -G dialout $USER``
@@ -385,4 +391,15 @@ zathura clipboard
 disable spacemacs release note
   select/click/tap on [Release Note] in the spacemacs buffer to hide it.
 
+
+can not input chinese in WPS (archlinux)
+
+  https://blog.csdn.net/zhao1991mg/article/details/84097485
+
+  vim /usr/bin/wps
+
+  add "export XMODIFIERS="@im=ibus""
+  add "export QT_IM_MODULES="ibus""
+  
 another item
+
